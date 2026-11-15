@@ -33,6 +33,8 @@ Choose: 2
 1. [ ] Learn Python - 2026-05-13
 2. [ ] Build Todo App - 2026-05-13
 
+
+
 Choose: 3
 Enter task ID to complete: 1
 Completed: Learn Python
@@ -56,4 +58,9 @@ Todo App working successfully!
 Wisdom Akpan - Built for Draft.dev portfolio.
 
 ## License
-MIT License - See LICENSE file 
+MIT
+ License - See LICENSE file 
+
+## 🔗 Read my tutorial
+https://dev.to/wisdomakpandevweb
+https://dev.to/wisdomakpandevweb
